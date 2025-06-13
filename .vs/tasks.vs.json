@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "\u30BF\u30B9\u30AF-\u65B0\u3057\u3044\u30D5\u30A1\u30A4\u30EB",
+      "appliesTo": "resources/views/\u65B0\u3057\u3044\u30D5\u30A1\u30A4\u30EB",
+      "type": "launch"
+    }
+  ]
+}
